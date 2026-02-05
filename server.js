@@ -977,6 +977,11 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'OK', message: 'FoundersKick API is running' });
 });
 
+app.get("/", (req, res) => {
+  res.send("🚀 FoundersKick backend is running!");
+});
+
+
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error(err.stack);
