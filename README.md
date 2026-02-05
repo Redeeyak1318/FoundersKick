@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FoundersKick 🚀
 
 A modern social media platform for entrepreneurs and startup founders to connect, collaborate, and share their startup ideas.
@@ -379,3 +380,7 @@ For questions or support, reach out to:
 **Built with ❤️ for the startup community**
 
 🚀 Start connecting with entrepreneurs today at [FoundersKick](https://founderskick.com)!
+=======
+# FoundersKick
+Working with functions
+>>>>>>> b7bb8fe3a074b2b1100d41f663560443a0e2e39a
