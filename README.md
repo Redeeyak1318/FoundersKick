@@ -1,0 +1,2 @@
+# FoundersKick
+Working with functions
