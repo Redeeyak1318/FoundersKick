@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Search, MessageCircle, Users, Briefcase, Plus, Send, Image, MapPin, TrendingUp, DollarSign, Calendar, LogOut, Menu, X, Phone, Github, Mail, Bell, Settings, User, Building2, Target, Zap, Check, ArrowRight, Star, Heart, UserPlus, UserCheck, Filter, Edit, Trash2, Eye, Share2 } from 'lucide-react';
 
 // API Configuration
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = 'https://founderskick.onrender.com';
 
 // API Helper Functions
 const apiCall = async (endpoint, options = {}) => {
